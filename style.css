@@ -12,7 +12,7 @@ body {
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-center: 20px;
 }
 
 .titulo-centralizado {
@@ -25,6 +25,7 @@ p {
 
 #missao {
 	font-size: 30px
+	padding-cnter: 20px
 }
 
 em strong {
@@ -33,7 +34,7 @@ em strong {
 
 .itens {
 	font-style: italic
-}
+	color: 3333A2
 
 .beneficios {
 	background: #FFFFFF;
